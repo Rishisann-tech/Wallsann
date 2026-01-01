@@ -29,5 +29,5 @@ No ads. No clutter. Just a clean and immersive wallpaper experience.
 
 ## 📸 App Screenshots
 
-![image alt](image_url)
+![image alt](https://github.com/Rishisann-tech/Wallsann/blob/136acb83a7d9212ea3d8971dd55ed481c9894559/Screenshot_20260101-164219_Wallsann.png)
 
