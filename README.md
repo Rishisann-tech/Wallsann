@@ -29,3 +29,5 @@ No ads. No clutter. Just a clean and immersive wallpaper experience.
 
 ## 📸 App Screenshots
 
+![image alt](image_url)
+
