@@ -46,8 +46,10 @@ No ads. No clutter. Just a clean and immersive wallpaper experience.
 This project is licensed under the MIT License.
 
 ---
+## 🎙️ support
+[Report a problem](https://t.me/+hA38lc3XfQwzZTg1)
 
-
+---
 
 ## 👨‍💻 Author
 - Rishi
