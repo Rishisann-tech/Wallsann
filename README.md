@@ -34,6 +34,9 @@ No ads. No clutter. Just a clean and immersive wallpaper experience.
 ![image alt](https://github.com/Rishisann-tech/Wallsann/blob/ac19bb71c933e7430568e11b47fad3d0782782cb/Screenshot_20260101-164227_Wallsann.png)
 
 ![image alt](https://github.com/Rishisann-tech/Wallsann/blob/a2845ba3c64e65bbdaf2dabd18a008d2bb73a439/Screenshot_20260101-164230_Wallsann.png)
+
+---
+
 ## 🔐 permission
 - storage access ( for upload or download your wallpapers)
 
@@ -44,7 +47,9 @@ This project is licensed under the MIT License.
 
 ---
 
+
+
 ## 👨‍💻 Author
-Rishi
-Android Developer
-📍INDIA
+- Rishi
+- Android Developer
+- 📍INDIA
