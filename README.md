@@ -20,11 +20,18 @@ No ads. No clutter. Just a clean and immersive wallpaper experience.
 - 🖼️ Ultra-HD & 4K wallpapers  
 - 🎨 Premium minimal UI (Material Design / Material You)  
 - ⚡ Fast loading & smooth scrolling  
-- 📥 One-tap download & apply  
+- 📥 One-tap download  
 - 🌙 currently only light theme support
-- 🚫 Completely ad-free  
-- 🔋 Battery & performance optimized  
+- 🚫 Completely ad-free
+- No background activity
 
+---
+
+## 🤔 How to use?
+- One tap to download
+- long press to save
+- Double tap to unsave ( favourate on save section)
+  
 ---
 
 ## 📸 App Screenshots
